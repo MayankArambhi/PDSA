@@ -11,4 +11,4 @@ def gcd(m,n):
         return b
     return gcd(b,a%b)
 
-print(gcd(245,125))
+print(gcd(79124374,28714921412))
